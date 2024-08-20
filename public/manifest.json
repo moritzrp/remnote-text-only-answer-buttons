@@ -1,0 +1,23 @@
+{
+  "manifestVersion": 1,
+  "id": "moritzrp-TextOnlyAnswerButtons",
+  "name": "Text-Only Answer Buttons",
+  "author": "moritzrp",
+  "repoUrl": "https://github.com/moritzrp/remnote-text-only-answer-buttons",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "theme": [],
+  "enableOnMobile": true,
+  "description": "Removes emojis from buttons on Flashcards.",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "Powerup",
+      "powerupCode": "moritzrp-dummy-powerup",
+      "level": "Read"
+    }
+  ]
+}
